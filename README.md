@@ -1,6 +1,6 @@
 # Soluciones
 
-#Suma de N \n
+#Suma de N
 print(sum(int(digito) for digito in input().strip()))
 
 #Ola Ivan
