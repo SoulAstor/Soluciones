@@ -1,9 +1,11 @@
 # Soluciones
 
 #Suma de N
+
 print(sum(int(digito) for digito in input().strip()))
 
 #Ola Ivan
+
 estado = input().strip()
 
 if estado == "conectado":
