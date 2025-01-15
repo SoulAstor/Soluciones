@@ -1,7 +1,7 @@
 #Suma de N
 print(sum(int(digito) for digito in input().strip()))
 
-#Hola Ivan
+#Ola Ivan
 estado = input().strip()
 
 if estado == "conectado":
